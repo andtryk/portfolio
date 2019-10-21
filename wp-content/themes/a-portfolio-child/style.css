@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+Theme Name: a-portfolio Child
+Description: a-portfolio Child Theme
+Author: André Tryk
+Template: a-portfolio
+Version: 1.0.0
+Text Domain: a-portfolio-child
+*/
+.overlay {
+    display: none;
+}
+
+header {
+    display: none;
+}
+
+.elementor-widget-heading.elementor-widget-heading .elementor-heading-title {
+    color: black;
+}
